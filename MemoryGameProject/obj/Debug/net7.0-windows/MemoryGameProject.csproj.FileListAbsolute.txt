@@ -1,0 +1,16 @@
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.csproj.GenerateResource.cache
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.AssemblyInfoInputs.cache
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.AssemblyInfo.cs
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.csproj.CoreCompileInputs.cache
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\bin\Debug\net7.0-windows\MemoryGameProject.exe
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\bin\Debug\net7.0-windows\MemoryGameProject.deps.json
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\bin\Debug\net7.0-windows\MemoryGameProject.runtimeconfig.json
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\bin\Debug\net7.0-windows\MemoryGameProject.dll
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\bin\Debug\net7.0-windows\MemoryGameProject.pdb
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.Form1.resources
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.dll
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\refint\MemoryGameProject.dll
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.pdb
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\MemoryGameProject.genruntimeconfig.cache
+C:\Users\akden\OneDrive\Visual Studio Project\MemoryGameProject\obj\Debug\net7.0-windows\ref\MemoryGameProject.dll
